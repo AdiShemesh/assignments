@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 d53ab2ff28ea6966f739d7c84bb2fbf851a9d5e7 adis <adis@jfrog.com> 1497269202 +0300	branch: Created from HEAD
+d53ab2ff28ea6966f739d7c84bb2fbf851a9d5e7 a06feb4da3394669bfa6f409d11fe33d8896bd95 adis <adis@jfrog.com> 1497269441 +0300	commit: added foo
+a06feb4da3394669bfa6f409d11fe33d8896bd95 4f13a81db00a32bb973c51cd6606825f00e7ba61 adis <adis@jfrog.com> 1497269935 +0300	commit: added foo
+4f13a81db00a32bb973c51cd6606825f00e7ba61 a9ae86e2ab6acb21233565a1fd89afbacaea1a6b adis <adis@jfrog.com> 1497273125 +0300	commit: added foo
+a9ae86e2ab6acb21233565a1fd89afbacaea1a6b 9501366ffcbc2d9c8f55f8cae6846461bfb9feaf adis <adis@jfrog.com> 1497282465 +0300	commit: splitted to 3 Qs
+9501366ffcbc2d9c8f55f8cae6846461bfb9feaf 6be20e0b83a8915be0577104383daa85b211dc42 adis <adis@jfrog.com> 1497343177 +0300	commit: removing stuff
