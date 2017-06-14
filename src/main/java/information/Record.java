@@ -92,12 +92,5 @@ public class Record {
     }
 
 
-//    public long compareTo(Record record)
-//    {
-//       return record.getScore();
-//    }
-
-
-
 }
 
