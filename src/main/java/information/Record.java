@@ -70,7 +70,6 @@ public class Record {
         return HoursFrom;
     }
 
-
     public Attributes getAttributes() {
         return attributes;
     }
